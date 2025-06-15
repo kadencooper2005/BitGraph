@@ -200,7 +200,6 @@ venv/
 .ipynb_checkpoints/
 
 # CSV data files (optional, if large or generated)
-*.csv
 
 # Bytecode files
 __pycache__/
