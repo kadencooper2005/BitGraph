@@ -73,6 +73,9 @@ fig.update_layout(
     xaxis=dict(rangeslider_visible=True),
 )
 
+# Add dollar sign to price ticks
+fig.update_yaxes(tickformat="$,.0f")
+
 st.plotly_chart(fig, use_container_width=True)
 
 # ---------- 4. Event table with headlines + links ----------
