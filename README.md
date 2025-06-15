@@ -12,4 +12,6 @@ BitGraph is an interactive Streamlit app that visualizes Bitcoin price trends al
 - Clickable links to original articles (optional)  
 - Fast, responsive interface built with Streamlit  
 
-Link: https://bitgraph.streamlit.app/
+Live App:
+
+[Try it on Streamlit](https://bitgraph.streamlit.app/)
