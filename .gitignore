@@ -192,3 +192,24 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Python virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# CSV data files (optional, if large or generated)
+*.csv
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS junk
+.DS_Store
+
+# Environment/IDE files
+*.env
+*.vscode/
